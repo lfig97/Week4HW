@@ -1,4 +1,4 @@
-package polymorphism;
+package TalkingPets;
 
 import java.util.Scanner;
 

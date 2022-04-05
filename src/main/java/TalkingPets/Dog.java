@@ -1,4 +1,4 @@
-package polymorphism;
+package TalkingPets;
 
 public class Dog extends Pet{
 
