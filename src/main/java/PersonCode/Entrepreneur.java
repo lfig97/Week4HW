@@ -1,4 +1,4 @@
-package Week4;
+package PersonCode;
 
 public class Entrepreneur extends Person {
     private String income;

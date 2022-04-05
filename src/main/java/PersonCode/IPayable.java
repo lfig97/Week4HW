@@ -1,4 +1,4 @@
-package Week4;
+package PersonCode;
 
 public interface IPayable {
 

@@ -1,4 +1,4 @@
-package Week4;
+package PersonCode;
 
 public class HourlyEmployee extends Employee implements IPayable{
     private double hourlyRate;

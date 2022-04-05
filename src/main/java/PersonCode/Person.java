@@ -1,4 +1,4 @@
-package Week4;
+package PersonCode;
 
 public abstract class Person {
     private String name;

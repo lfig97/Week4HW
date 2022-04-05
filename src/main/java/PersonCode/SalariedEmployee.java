@@ -1,4 +1,4 @@
-package Week4;
+package PersonCode;
 
 public class SalariedEmployee extends Employee {
     private double salary;
